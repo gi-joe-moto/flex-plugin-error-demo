@@ -2,6 +2,9 @@
 
 If you run this plugin it will eventually display the hello world component twice.  I don't not know of a way to force it to display the issue but it will eventually happen.
 
+![Duplicate Display Issue](https://raw.githubusercontent.com/gi-joe-moto/flex-plugin-error-demo/master/duplicate-display-issue-snapshot.PNG "Duplicate Tab")
+
+
 ## Setup
 
 Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com) installed.
