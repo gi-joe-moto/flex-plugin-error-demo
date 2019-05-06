@@ -1,6 +1,6 @@
-# Your custom Twilio Flex Plugin
+# Flex Plugin Duplicate display issue
 
-Twilio Flex Plugins allow you to customize the apperance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
+If you run this plugin it will eventually display the hello world component twice.  I don't not know of a way to force it to display the issue but it will eventually happen.
 
 ## Setup
 
